@@ -3,7 +3,7 @@
 
 ## Author
 
-
+Anthony Aernie
 
 ## Description
 
@@ -34,8 +34,8 @@ If you need some help on how to write proper Markdown for the README file, you c
 
 ## Outside Resources Used
 
-
+None
 
 ## Known Problems, Issues, And/Or Errors in the Program
 
-
+None
